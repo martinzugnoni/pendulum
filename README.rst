@@ -177,6 +177,16 @@ Resources
 * `Issue Tracker <https://github.com/sdispater/pendulum/issues>`_
 
 
+Demo
+====
+
+Try ``pendulum`` interactively using this online demo:
+
+.. image:: https://user-images.githubusercontent.com/1155573/49400125-16e73500-f722-11e8-9275-e1d7eb3bbf99.png
+    :target: https://notebooks.rmotr.com/demo/gh/martinzugnoni/pendulum
+    :alt: Open Live Demo
+
+
 Contributing
 ============
 
